@@ -5404,3 +5404,10 @@ width: 100% !important;
 .docsearch {
   margin-right: 20px!important;
 }
+.upstreams-regular {
+  content: url('/docs/assets/images/upstreams-regular.svg');
+  display: inline-block;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.4; vertical-align: top; margin-right: 2px; margin-left: 3px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;
+}
